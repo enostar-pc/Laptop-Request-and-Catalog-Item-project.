@@ -90,5 +90,5 @@ Dynamic fields, validations, and audit support make the laptop provisioning work
 
 ## 🎬 Demo Video
 
-[Watch the project demonstration](https://drive.google.com/file/d/1bQijgijrIkhZb3NIV_xHG-nW8bum5Klt/view?usp=sharing)
+[Watch the project demonstration](https://drive.google.com/file/d/1myl-ZV_vdZHX3NBamtdDXQjExIaQgZhg/view?usp=sharing)
 
