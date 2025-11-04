@@ -88,3 +88,7 @@ SmartInternz – Naan Mudhalvan Team
 This project demonstrates how ServiceNow Catalog Item customization improves IT request handling.  
 Dynamic fields, validations, and audit support make the laptop provisioning workflow faster and more reliable.
 
+## 🎬 Demo Video
+
+[Watch the project demonstration](https://drive.google.com/file/d/1bQijgijrIkhZb3NIV_xHG-nW8bum5Klt/view?usp=sharing)
+
